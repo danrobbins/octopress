@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.danrobbins.com
-title: Dan's Markets and More
+url: http://danrobbins.github.com
+title: The Markets and More
 subtitle: by Dan Robbins
 author: Dan Robbins
 simple_search: http://google.com/search
@@ -82,7 +82,7 @@ googleplus_hidden: false
 
 # Pinboard
 pinboard_user: blenderking
-pinboard_count: 3
+pinboard_count: 4
 
 # Delicious
 delicious_user:
